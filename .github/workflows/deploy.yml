@@ -1,0 +1,8 @@
+project:
+  type: website
+
+website:
+  title: "Mon site Quarto"
+  # Tu peux aussi ajouter navbar, sidebar, etc.
+
+output-dir: _site
