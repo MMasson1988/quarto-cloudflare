@@ -4,4 +4,4 @@ title: "mon-site"
 
 This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+To learn more about Quarto websites visit <https://lookerstudio.google.com/reporting/e53fe995-999b-49fb-a377-bd1cdc3e3d43/page/page_12345>.
